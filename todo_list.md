@@ -1,6 +1,0 @@
-# TODO LIST
-
-## Main
-
-## Future
-- [] 
