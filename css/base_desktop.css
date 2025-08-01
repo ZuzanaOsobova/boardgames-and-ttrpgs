@@ -81,6 +81,10 @@ ul {
 
 }
 
+.nav_li.current {
+    text-decoration: underline;
+}
+
 main {
     margin: 0;
     padding: 5%;
