@@ -9,14 +9,14 @@ body {
     height: 100%;
     margin:auto;
     background-color: var(--light_grey);
-    align-content: center;
+
 }
 
 
 header {
-    position: fixed;
+    position: relative;
     top: 0;
-    width: 60%;
+    width: 100%;
     text-align: center;
     padding: 0;
 }
@@ -80,3 +80,35 @@ ul {
     color: var(--light_grey);
 
 }
+
+main {
+    margin: 0;
+    padding: 5%;
+    width: 90%;
+    position: relative;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 60%;
+}
+
+h2 {
+    margin:0;
+    padding: 2%;
+    font-family: "Anonymous Pro";
+    color: var(--black);
+    font-weight: bold;
+    font-size:1.3em;
+}
+
+.text {
+    font-family: "Anonymous Pro";
+    font-size: 1em;
+
+}
+
