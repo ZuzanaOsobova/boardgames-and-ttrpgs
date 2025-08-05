@@ -1,0 +1,113 @@
+[
+  {
+    "name" : "Výbušná koťátka",
+    "player_count" : "2-6",
+    "play_time" : "20mins",
+    "language" : "CZ",
+    "image" : "vybusna_kotatka.jpg",
+    "detail_text": "Hráči po řadě táhnou vždy po jedné kartě, dokud někdo nevytáhne explodující kotě. Pokud tento hráč nemá v ruce zneškodňující kartu (defuse card) vybuchuje a ve hře končí. Před táhnutím karty se dají hrát dříve získané karty z ruky. Ty se používají k nahlížení do balíčku, vyhýbání se explozím a nástrahám na spoluhráče."
+  },
+
+  {
+    "name" : "Bang",
+    "player_count" : "4-7",
+    "play_time" : "45mins",
+    "language" : "CZ",
+    "image" : "bang.jpg",
+    "detail_text" : "Bang! je karetní hra plná zvratů, intrik a blafování. Není vůbec neobvyklé, že bandita zastřelí banditu a dokonce se i stává, že šerif zastřelí omylem svého zástupce. Hra, kde olovo sviští vzduchem a pistolníci prolévají svá hrdla pivem. A když se zrovna nestřílí či neposedává v místním Saloonu, všichni shání lepší zbraně, koně a jiné užitečné předměty."
+  },
+
+  {
+    "name" : "Chlupatí zabijáci",
+    "player_count" : "2-6",
+    "play_time" : "90mins",
+    "language" : "CZ",
+    "image": "chlupati_zabijaci.jpg",
+    "detail_text" : "V této hře si sestavíte skupinu hrdinů, s níž budete zabíjet nebezpečná monstra a přitom se budete snažit vyhýbat sabotážím vašich přátel (nepřátel). Své hrdiny budete moct vybavit různými předměty a budete jejich prostřednictvím sesílat kouzla a používat modifikátory, abyste si naklonili šance ve svůj prospěch.",
+    "expansions" : ["Válečníci a Druidi"]
+
+  },
+
+  {
+    "name" : "Na ploutvích",
+    "player_count" : "1-5",
+    "play_time" : "60mins",
+    "language" : "CZ",
+    "image": "na_ploutvich.jpg",
+    "detail_text" : "Ve hře Na ploutvích se hráči podmořskými výzkumníky, kteří se po dobu čtyř týdnů snaží nalézt a pozorovat podmořské živočichy ve třech zónách s různým množstvím světla. Za ryby, jež hráči takto prozkoumají, hráči získají na konci hry body, stejně jako za splněné úkoly aj. Hráč s nejvíce body se stane vítězem hry."
+  },
+
+  {
+    "name" : "Mini Rogue",
+    "player_count" : "1-2",
+    "play_time" : "40mins",
+    "language" : "CZ",
+    "image": "mini_rogue.jpg",
+    "detail_text" : "V tomto malém karetním „dungeon crawleru“ určeném pro solitérní nebo kooperativní hraní na sebe vezmete roli dobrodruha, který postupuje do hlubin kobky, přechází z jedné místnosti do druhé a patro po patře pátrá po Ogově krvi, bájném tajemném artefaktu. Během této cesty sbíráte zkušenosti a vybavení, čímž se stáváte postupně silnější.",
+    "expansions" : ["Blyštivý poklad", "Hlubiny zatracení"]
+  },
+
+  {
+    "name" : "Karak",
+    "player_count" : "2-5",
+    "play_time" : "30mins",
+    "language" : "CZ, SK, PL, RUM",
+    "image": "karak.jpg",
+    "detail_text" : "Karak je rodinná společenská hra na hrdiny s jednoduchými pravidly. Každý hráč se ujme jednoho z pěti hrdinů a společně s ostatními zkoumá a zároveň buduje labyrint chodeb a místností samotného hradu. Každý hrdina má dvojici unikátních schopností, které mu pomáhají v boji proti nestvůrám číhajícím v útrobách Karaku. Hra končí přemožením draka. Ovšem vítězem se stává ten, kdo do té doby získal nejvíce pokladů.",
+    "expansions" : ["Regent"]
+  },
+
+  {
+    "name" : "Gloomhaven: Buttons & Bugs",
+    "player_count" : "1",
+    "play_time" : "30mins",
+    "language" : "ENG",
+    "image": "gloomhaven_buttons_and_bugs.jpg",
+    "detail_text" : "V čisté sólovce Gloomhaven: Buttons & Bugs se hráč ocitne v kůži mladého dobrodruha toužícího po slávě a hrdinských činech. Cílem je přesvědčit samotářku Hail, aby vaši očarovanou, zmenšenou postavu vrátila zpět do původní velikosti, a zároveň objevit tajemství Křivé kosti, které může změnit váš osud."
+  },
+
+  {
+    "name" : "Codex Naturalis",
+    "player_count" : "2-4",
+    "play_time" : "30mins",
+    "language" : "CZ, SK, ENG",
+    "image": "codex_naturalis.jpg",
+    "detail_text" : "Ve hře Codex Naturalis se ujímáte role mnicha-přírodozpytce, který má za úkol sestavit co nejcennější kodex naturalis - sbírku poznatků o okolní přírodě. Vaším úkolem je stránky s poznatky reprezentované kartami poskládat v co nejlepším uspořádání pro zisk co nejvíce vítězných bodů.\n\nHra sestává z malých kartiček čtyř barev, na kterých jsou nakreslené symboly, a to buď ve středu, nebo v rozích. Karty se skládají přes sebe tak, že se překrývají jejích růžky. Hráči začínají s jedinou kartou a každou další musí přikládat tak, aby překryla alespoň jeden volný růžek již na stole ležící karty. Každý hráč si skládá vlastní manuskript, navzájem se neovlivňují."
+  },
+
+  {
+    "name" : "Duch!",
+    "player_count" : "2-8",
+    "play_time" : "20mins",
+    "language" : "all",
+    "image": "duch.jpg",
+    "detail_text" : "Duch je velmi jednoduchá a svižná hra. Můžete si hru zahrát ve dvou, ale také až v osmi hráčích. Každý z hráčů se snaží být co nejrychlejší a ukořistit ze stolu nejrychleji správný předmět. Předmětů je 5 a pomocí vyložené karty musíte co nejrychleji vyhodnotit co z předmětů vzít."
+  },
+
+  {
+    "name" : "Shamans",
+    "player_count" : "3-5",
+    "play_time" : "45mins",
+    "language" : "CZ, SK, ENG",
+    "image": "shamans.jpg",
+    "detail_text" : "Shamans je štychová hra, která sestává z neurčitého počtu kol. Každé kolo představuje jeden lunární cyklus, během kterého mezi sebou zápolí síly Šamanů a Stínů. Šamani v kole zvítězí, pokud se jim podaří sprovodit ze světa všechny Stíny, nebo pokud po odehrání všech karet figurka stínu stále nedošla až na pole měsíce na konci stupnice. Stíny zvítězí, pokud figurka stínu došla až na pole měsíce na konci stupnice. V každém kole budou hráči náhodně a tajně rozděleni mezi tyto dva týmy, Šamany a Stíny. Složení týmů se mění v každém kole hry a hráči získávají body, pokud jsou členy vítězného týmu, nebo prostřednictvím různých efektů. Na konci hry zvítězí ten hráč, který napříč koly nasbíral nejvíce bodů."
+  },
+
+  {
+    "name" : "",
+    "player_count" : "",
+    "play_time" : "",
+    "language" : "",
+    "image": "",
+    "detail_text" : ""
+  },
+
+  {
+    "name" : "",
+    "player_count" : "",
+    "play_time" : "",
+    "language" : "",
+    "image": "",
+    "detail_text" : ""
+  }
+]
