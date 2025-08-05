@@ -1,0 +1,28 @@
+@media only screen and (min-width: 600px){
+
+    html {
+        background-color: var(--light_red);
+        width: 100%;
+        height: 100%;
+        overflow-y: scroll;
+    }
+
+    body {
+        width: 60%;
+        min-height: 100%;
+        height: auto;
+        margin:auto;
+        background-color: var(--light_grey);
+        overflow: auto;
+        align-items: center;
+
+    }
+
+    footer {
+        width: 60%;
+    }
+
+
+}
+
+
