@@ -1,0 +1,59 @@
+.game {
+    padding: 5%;
+
+}
+
+summary {
+    background-color: var(--light_red);
+    padding: 2%;
+}
+
+.summary_name {
+
+    color: var(--light_grey);
+    font-family: "Anonymous Pro", serif;
+    font-weight: bold;
+    font-size: 1em;
+
+}
+
+.summary_info {
+
+    color: var(--black);
+    font-family: "Anonymous Pro", serif;
+    font-weight: bold;
+    float: right;
+    font-size: 1em;
+    display: flex;
+    vertical-align: middle;
+}
+
+.summary_info span {
+    display: flex;
+    align-items: center;
+}
+
+.summary_info img {
+    height: 1.3em;
+    width: auto;
+    vertical-align: center;
+    margin:0;
+    padding: 0;
+    color: var(--black);
+}
+
+.game_details {
+
+    margin: 0;
+    padding: 2%;
+    font-family: "Anonymous Pro", serif;
+}
+
+.game_details img {
+
+    height: 10em;
+    width: auto;
+    float: left;
+    padding-right: 2%;
+
+}

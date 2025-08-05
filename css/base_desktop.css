@@ -24,7 +24,7 @@ header {
 h1 {
     margin:0;
     padding: 2%;
-    font-family: "Anonymous Pro";
+    font-family: "Anonymous Pro", serif;
     color: var(--black);
     font-size:2em;
 
@@ -51,7 +51,7 @@ ul {
     text-align: center;
     padding: 2%;
     list-style-type: none;
-    font-family: "Anonymous Pro";
+    font-family: "Anonymous Pro", serif;
     font-weight: bold;
     color: var(--light_grey);
     text-decoration: none;
@@ -86,6 +86,7 @@ ul {
 }
 
 main {
+
     margin: 0;
     padding: 5%;
     width: 90%;
@@ -99,20 +100,20 @@ footer {
     padding-top: 5px;
     padding-bottom: 5px;
     width: 60%;
-    font-family: "Anonymous Pro";
+    font-family: "Anonymous Pro", serif;
 }
 
 h2 {
     margin:0;
     padding: 2%;
-    font-family: "Anonymous Pro";
+    font-family: "Anonymous Pro", serif;
     color: var(--black);
     font-weight: bold;
     font-size:1.3em;
 }
 
 .text {
-    font-family: "Anonymous Pro";
+    font-family: "Anonymous Pro", serif;
     font-size: 1em;
 
 }
