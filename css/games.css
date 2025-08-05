@@ -4,8 +4,13 @@
 }
 
 summary {
+
     background-color: var(--light_red);
     padding: 2%;
+
+    vertical-align: middle;
+    cursor: pointer;
+
 }
 
 .summary_name {
@@ -15,6 +20,8 @@ summary {
     font-weight: bold;
     font-size: 1em;
 
+    margin: 0;
+
 }
 
 .summary_info {
@@ -22,10 +29,14 @@ summary {
     color: var(--black);
     font-family: "Anonymous Pro", serif;
     font-weight: bold;
+
     float: right;
+
     font-size: 1em;
     display: flex;
     vertical-align: middle;
+
+    margin: 0;
 }
 
 .summary_info span {
@@ -51,8 +62,8 @@ summary {
 
 .game_details img {
 
-    height: 10em;
-    width: auto;
+    width: 10em;
+    height: auto;
     float: left;
     padding-right: 2%;
 
