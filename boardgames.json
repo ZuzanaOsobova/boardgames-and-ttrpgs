@@ -51,7 +51,7 @@
     "name" : "Karak",
     "player_count" : "2-5",
     "play_time" : "30mins",
-    "language" : "CZ, SK, PL, RUM",
+    "language" : "CZ,SK,PL,RUM",
     "image": "karak.jpg",
     "detail_text" : "Karak je rodinná společenská hra na hrdiny s jednoduchými pravidly. Každý hráč se ujme jednoho z pěti hrdinů a společně s ostatními zkoumá a zároveň buduje labyrint chodeb a místností samotného hradu. Každý hrdina má dvojici unikátních schopností, které mu pomáhají v boji proti nestvůrám číhajícím v útrobách Karaku. Hra končí přemožením draka. Ovšem vítězem se stává ten, kdo do té doby získal nejvíce pokladů.",
     "expansions" : ["Regent"]
@@ -70,7 +70,7 @@
     "name" : "Codex Naturalis",
     "player_count" : "2-4",
     "play_time" : "30mins",
-    "language" : "CZ, SK, ENG",
+    "language" : "CZ,SK,ENG",
     "image": "codex_naturalis.jpg",
     "detail_text" : "Ve hře Codex Naturalis se ujímáte role mnicha-přírodozpytce, který má za úkol sestavit co nejcennější kodex naturalis - sbírku poznatků o okolní přírodě. Vaším úkolem je stránky s poznatky reprezentované kartami poskládat v co nejlepším uspořádání pro zisk co nejvíce vítězných bodů.\n\nHra sestává z malých kartiček čtyř barev, na kterých jsou nakreslené symboly, a to buď ve středu, nebo v rozích. Karty se skládají přes sebe tak, že se překrývají jejích růžky. Hráči začínají s jedinou kartou a každou další musí přikládat tak, aby překryla alespoň jeden volný růžek již na stole ležící karty. Každý hráč si skládá vlastní manuskript, navzájem se neovlivňují."
   },
@@ -88,7 +88,7 @@
     "name" : "Shamans",
     "player_count" : "3-5",
     "play_time" : "45mins",
-    "language" : "CZ, SK, ENG",
+    "language" : "CZ,SK,ENG",
     "image": "shamans.jpg",
     "detail_text" : "Shamans je štychová hra, která sestává z neurčitého počtu kol. Každé kolo představuje jeden lunární cyklus, během kterého mezi sebou zápolí síly Šamanů a Stínů. Šamani v kole zvítězí, pokud se jim podaří sprovodit ze světa všechny Stíny, nebo pokud po odehrání všech karet figurka stínu stále nedošla až na pole měsíce na konci stupnice. Stíny zvítězí, pokud figurka stínu došla až na pole měsíce na konci stupnice. V každém kole budou hráči náhodně a tajně rozděleni mezi tyto dva týmy, Šamany a Stíny. Složení týmů se mění v každém kole hry a hráči získávají body, pokud jsou členy vítězného týmu, nebo prostřednictvím různých efektů. Na konci hry zvítězí ten hráč, který napříč koly nasbíral nejvíce bodů."
   },
