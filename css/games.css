@@ -58,13 +58,22 @@ summary {
     margin: 0;
     padding: 2%;
     font-family: "Anonymous Pro", serif;
+
+    overflow: hidden;
 }
 
 .game_details img {
 
-    width: 10em;
+    max-width: 40%;
     height: auto;
     float: left;
+    object-fit: contain;
     padding-right: 2%;
 
+    margin: 0;
+
+}
+
+.details_text {
+    float: none;
 }
