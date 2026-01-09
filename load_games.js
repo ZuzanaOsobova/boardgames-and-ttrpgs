@@ -38,6 +38,14 @@ function displayHTML() {
                 icon = "images/group_icon.svg"
             }
 
+            let image ="";
+
+            if (game.image) {
+                image = "<img src='images/" + game.image + "'>"
+            } else {
+                image = ""
+            }
+
 
             game_div.innerHTML =
                 "<div class='game'>" +
@@ -50,7 +58,7 @@ function displayHTML() {
                             "<span class='summary_name'>" + game.name + "</span>" +
                         "</summary>" +
                             "<div class='game_details'>" +
-                                "<img src='images/" + game.image + "'>" +
+                                image +
                                 game.detail_text +
                             "</div>" +
                     "</details>" +
