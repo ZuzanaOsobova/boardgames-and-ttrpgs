@@ -103,6 +103,15 @@
   },
 
   {
+    "name" : "Čaroděj",
+    "player_count" : "3-6",
+    "play_time" : "20mins",
+    "language" : "CZ",
+    "image": "carodej.webp",
+    "detail_text" : "Úkolem každého hráče je odhadnout, kolik v daném kole získá štychů. Předpovědi si zaznamenají a podle toho, zda hráč odhadl správně nebo ne, si přičte či odečte určitý počet bodů. V prvním kole každý hráč hraje pouze s jednou kartou, ve hře je tedy jeden štych. V každém dalším kole se přidává jedna karta na hráče a takto postupně dál, dokud v posledním kole nejsou rozdány všechny karty (v druhém kole tedy každý hraje se dvěma kartami, v desátém s deseti, atd.). Štych získá ten, kdo vynese nejvyšší kartu. Přebíjení probíhá způsobem běžným pro štychové hry, navíc jsou ve hře postavy blázna (šaška) a čaroděje, které hru ozvláštňují a nezanedbatelně ovlivňují výsledek kola. Vyhraje ten, kdo díky nejpřesnějším odhadům či obratnému hraní získá nejvíce bodů."
+  },
+
+  {
     "name" : "",
     "player_count" : "",
     "play_time" : "",
