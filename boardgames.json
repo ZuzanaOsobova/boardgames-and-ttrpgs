@@ -112,6 +112,15 @@
   },
 
   {
+    "name" : "Hlubiny Lítosti",
+    "player_count" : "1-5",
+    "play_time" : "120mins",
+    "language" : "CZ",
+    "image": "hlubiny_litosti.png",
+    "detail_text" : "Hlubiny lítosti je hororová hra o rybaření vycházející z mytologie Cthulhu H. P. Lovecrafta, ve které se ze slaných hlubin tahají stále děsivější úlovky. Ovládněte své šílenství, pokoušejte své štěstí a modlete se, až se vydáte na plavbu do hrůzně tajuplných hlubin. Do nitra se vám však může vkrást lítost. Získáváním lítosti lze dosáhnout větších odměn, ale když budete své štěstí pokoušet příliš, můžete přijít o hodně. Možná i o rozum! V hlubinách na vás čeká přes 140 unikátních úlovků. Každý bizarnější než ten předchozí! V každém ze šesti dnů hráči hodí kostkami, aby určili svou energii pro daný den, a poté se rozhodnou, zda zůstanou na moři a budou rybařit, nebo zda zakotví v přístavu, aby prodali úlovek a doplnili zásoby. V průběhu každého dne hrají hráči své tahy postupně ve směru hodinových ručiček, dokud všichni hráči nepasují. Na konci týdne hráči sečtou své body a ten s nejvyšším počtem bodů vyhrává. …ALE MÁ TO HÁČEK! Lítost. Může se vám vkrást do nitra. Nabíráním stále více karet lítosti můžete získat větší odměny, ale pokud budete své štěstí pokoušet příliš, můžete přijít o hodně. Na konci hry je hráč s nejtěžším břemenem lítosti sužován výčitkami, přemáhá ho šílenství a musí nést vážné následky, kdy nakonec zahodí svůj nejlepší z trofejních úlovků, které si během hry vystavil. Dokáže vyhrát i tak? Těžko říct, ale vina tíží víc než plejtvák obrovský. Každou rybu, předmět a postavu pečlivě ručně ilustroval Judson Cowan. Je to naprosto nádherný svět s mnoha a mnoha temnými překvapeními, která je třeba odhalit."
+  },
+
+  {
     "name" : "",
     "player_count" : "",
     "play_time" : "",
